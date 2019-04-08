@@ -1,0 +1,3 @@
+rootProject.name = 'deliberate_training_2066'
+
+include ':app'
